@@ -1,0 +1,574 @@
+2025-07-12 21:00:58,237 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-12 21:01:01,492 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-12 21:01:29,293 - INFO - Phone migrated to 4
+2025-07-12 21:01:29,408 - INFO - Reconnecting to new data center 4
+2025-07-12 21:01:29,850 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-12 21:01:29,851 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-12 21:01:29,851 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 21:01:33,561 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 21:01:57,655 - INFO - Starting scrape for @CheMed123 (Images: True)
+2025-07-12 21:01:59,161 - INFO - Scraped message 97 from @CheMed123
+2025-07-12 21:01:59,161 - INFO - Scraped message 96 from @CheMed123
+2025-07-12 21:01:59,161 - INFO - Scraped message 95 from @CheMed123
+2025-07-12 21:01:59,161 - INFO - Scraped message 94 from @CheMed123
+2025-07-12 21:01:59,162 - INFO - Scraped message 93 from @CheMed123
+2025-07-12 21:01:59,162 - INFO - Scraped message 92 from @CheMed123
+2025-07-12 21:01:59,162 - INFO - Scraped message 91 from @CheMed123
+2025-07-12 21:01:59,162 - INFO - Scraped message 90 from @CheMed123
+2025-07-12 21:01:59,162 - INFO - Scraped message 89 from @CheMed123
+2025-07-12 21:01:59,163 - INFO - Scraped message 88 from @CheMed123
+2025-07-12 21:01:59,163 - INFO - Scraped message 87 from @CheMed123
+2025-07-12 21:01:59,163 - INFO - Scraped message 86 from @CheMed123
+2025-07-12 21:01:59,163 - INFO - Scraped message 85 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 82 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 81 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 80 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 79 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 78 from @CheMed123
+2025-07-12 21:01:59,164 - INFO - Scraped message 77 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 76 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 75 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 74 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 73 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 71 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 70 from @CheMed123
+2025-07-12 21:01:59,165 - INFO - Scraped message 67 from @CheMed123
+2025-07-12 21:01:59,166 - INFO - Scraped message 64 from @CheMed123
+2025-07-12 21:01:59,166 - INFO - Scraped message 62 from @CheMed123
+2025-07-12 21:01:59,166 - INFO - Scraped message 60 from @CheMed123
+2025-07-12 21:01:59,166 - INFO - Scraped message 59 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 58 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 57 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 56 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 55 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 53 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 52 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 51 from @CheMed123
+2025-07-12 21:01:59,167 - INFO - Scraped message 50 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 49 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 48 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 46 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 45 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 44 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 43 from @CheMed123
+2025-07-12 21:01:59,168 - INFO - Scraped message 41 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 40 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 39 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 38 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 34 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 33 from @CheMed123
+2025-07-12 21:01:59,169 - INFO - Scraped message 32 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 31 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 30 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 29 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 27 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 26 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 25 from @CheMed123
+2025-07-12 21:01:59,170 - INFO - Scraped message 23 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 22 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 21 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 20 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 19 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 18 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 17 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 15 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 14 from @CheMed123
+2025-07-12 21:01:59,171 - INFO - Scraped message 13 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 11 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 10 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 9 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 7 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 6 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 4 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 3 from @CheMed123
+2025-07-12 21:01:59,172 - INFO - Scraped message 2 from @CheMed123
+2025-07-12 21:01:59,173 - INFO - Scraped message 1 from @CheMed123
+2025-07-12 21:01:59,177 - INFO - Saved 76 messages to data/raw/telegram_messages\2025-07-12\CheMed123\messages.json
+2025-07-12 21:01:59,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:02,006 - INFO - Downloaded image 97 to data/raw/telegram_messages\2025-07-12\CheMed123\image_97.jpg
+2025-07-12 21:02:02,007 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:05,099 - INFO - Downloaded image 96 to data/raw/telegram_messages\2025-07-12\CheMed123\image_96.jpg
+2025-07-12 21:02:05,100 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:07,362 - INFO - Downloaded image 95 to data/raw/telegram_messages\2025-07-12\CheMed123\image_95.jpg
+2025-07-12 21:02:07,367 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:09,501 - INFO - Downloaded image 94 to data/raw/telegram_messages\2025-07-12\CheMed123\image_94.jpg
+2025-07-12 21:02:09,502 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:12,329 - INFO - Downloaded image 93 to data/raw/telegram_messages\2025-07-12\CheMed123\image_93.jpg
+2025-07-12 21:02:12,331 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:16,081 - INFO - Downloaded image 92 to data/raw/telegram_messages\2025-07-12\CheMed123\image_92.jpg
+2025-07-12 21:02:16,083 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:18,553 - INFO - Downloaded image 91 to data/raw/telegram_messages\2025-07-12\CheMed123\image_91.jpg
+2025-07-12 21:02:18,554 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:23,299 - INFO - Downloaded image 90 to data/raw/telegram_messages\2025-07-12\CheMed123\image_90.jpg
+2025-07-12 21:02:23,301 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:26,782 - INFO - Downloaded image 88 to data/raw/telegram_messages\2025-07-12\CheMed123\image_88.jpg
+2025-07-12 21:02:26,784 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:31,987 - INFO - Downloaded image 87 to data/raw/telegram_messages\2025-07-12\CheMed123\image_87.jpg
+2025-07-12 21:02:31,988 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:35,452 - INFO - Downloaded image 86 to data/raw/telegram_messages\2025-07-12\CheMed123\image_86.jpg
+2025-07-12 21:02:35,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:37,635 - INFO - Downloaded image 85 to data/raw/telegram_messages\2025-07-12\CheMed123\image_85.jpg
+2025-07-12 21:02:37,637 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:40,034 - INFO - Downloaded image 82 to data/raw/telegram_messages\2025-07-12\CheMed123\image_82.jpg
+2025-07-12 21:02:40,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:43,647 - INFO - Downloaded image 81 to data/raw/telegram_messages\2025-07-12\CheMed123\image_81.jpg
+2025-07-12 21:02:43,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:45,906 - INFO - Downloaded image 80 to data/raw/telegram_messages\2025-07-12\CheMed123\image_80.jpg
+2025-07-12 21:02:45,907 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:49,942 - INFO - Downloaded image 79 to data/raw/telegram_messages\2025-07-12\CheMed123\image_79.jpg
+2025-07-12 21:02:49,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:54,258 - INFO - Downloaded image 78 to data/raw/telegram_messages\2025-07-12\CheMed123\image_78.jpg
+2025-07-12 21:02:54,284 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:02:58,114 - INFO - Downloaded image 77 to data/raw/telegram_messages\2025-07-12\CheMed123\image_77.jpg
+2025-07-12 21:02:58,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:01,841 - INFO - Downloaded image 76 to data/raw/telegram_messages\2025-07-12\CheMed123\image_76.jpg
+2025-07-12 21:03:01,843 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:05,122 - INFO - Downloaded image 75 to data/raw/telegram_messages\2025-07-12\CheMed123\image_75.jpg
+2025-07-12 21:03:05,123 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:07,421 - INFO - Downloaded image 74 to data/raw/telegram_messages\2025-07-12\CheMed123\image_74.jpg
+2025-07-12 21:03:07,424 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:11,866 - INFO - Downloaded image 71 to data/raw/telegram_messages\2025-07-12\CheMed123\image_71.jpg
+2025-07-12 21:03:11,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:15,223 - INFO - Downloaded image 70 to data/raw/telegram_messages\2025-07-12\CheMed123\image_70.jpg
+2025-07-12 21:03:15,225 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:18,527 - INFO - Downloaded image 67 to data/raw/telegram_messages\2025-07-12\CheMed123\image_67.jpg
+2025-07-12 21:03:18,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:22,036 - INFO - Downloaded image 64 to data/raw/telegram_messages\2025-07-12\CheMed123\image_64.jpg
+2025-07-12 21:03:22,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:24,061 - INFO - Downloaded image 60 to data/raw/telegram_messages\2025-07-12\CheMed123\image_60.jpg
+2025-07-12 21:03:24,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:26,359 - INFO - Downloaded image 59 to data/raw/telegram_messages\2025-07-12\CheMed123\image_59.jpg
+2025-07-12 21:03:26,361 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:27,427 - INFO - Downloaded image 58 to data/raw/telegram_messages\2025-07-12\CheMed123\image_58.jpg
+2025-07-12 21:03:27,429 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:41,333 - INFO - Downloaded image 56 to data/raw/telegram_messages\2025-07-12\CheMed123\image_56.jpg
+2025-07-12 21:03:41,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:45,586 - INFO - Downloaded image 55 to data/raw/telegram_messages\2025-07-12\CheMed123\image_55.jpg
+2025-07-12 21:03:45,590 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:48,415 - INFO - Downloaded image 53 to data/raw/telegram_messages\2025-07-12\CheMed123\image_53.jpg
+2025-07-12 21:03:48,418 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:51,971 - INFO - Downloaded image 52 to data/raw/telegram_messages\2025-07-12\CheMed123\image_52.jpg
+2025-07-12 21:03:51,974 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:55,585 - INFO - Downloaded image 50 to data/raw/telegram_messages\2025-07-12\CheMed123\image_50.jpg
+2025-07-12 21:03:55,588 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:03:57,130 - INFO - Downloaded image 49 to data/raw/telegram_messages\2025-07-12\CheMed123\image_49.jpg
+2025-07-12 21:03:57,131 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:01,940 - INFO - Downloaded image 48 to data/raw/telegram_messages\2025-07-12\CheMed123\image_48.jpg
+2025-07-12 21:04:01,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:04,496 - INFO - Downloaded image 46 to data/raw/telegram_messages\2025-07-12\CheMed123\image_46.jpg
+2025-07-12 21:04:04,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:06,827 - INFO - Downloaded image 45 to data/raw/telegram_messages\2025-07-12\CheMed123\image_45.jpg
+2025-07-12 21:04:06,829 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:11,184 - INFO - Downloaded image 44 to data/raw/telegram_messages\2025-07-12\CheMed123\image_44.jpg
+2025-07-12 21:04:11,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:14,290 - INFO - Downloaded image 43 to data/raw/telegram_messages\2025-07-12\CheMed123\image_43.jpg
+2025-07-12 21:04:14,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:18,468 - INFO - Downloaded image 41 to data/raw/telegram_messages\2025-07-12\CheMed123\image_41.jpg
+2025-07-12 21:04:18,469 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:20,286 - INFO - Downloaded image 40 to data/raw/telegram_messages\2025-07-12\CheMed123\image_40.jpg
+2025-07-12 21:04:20,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:21,723 - INFO - Downloaded image 39 to data/raw/telegram_messages\2025-07-12\CheMed123\image_39.jpg
+2025-07-12 21:04:21,724 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:23,675 - INFO - Downloaded image 38 to data/raw/telegram_messages\2025-07-12\CheMed123\image_38.jpg
+2025-07-12 21:04:23,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:24,859 - INFO - Downloaded image 34 to data/raw/telegram_messages\2025-07-12\CheMed123\image_34.jpg
+2025-07-12 21:04:24,860 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:27,492 - INFO - Downloaded image 33 to data/raw/telegram_messages\2025-07-12\CheMed123\image_33.jpg
+2025-07-12 21:04:27,494 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:29,793 - INFO - Downloaded image 32 to data/raw/telegram_messages\2025-07-12\CheMed123\image_32.jpg
+2025-07-12 21:04:29,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:32,066 - INFO - Downloaded image 31 to data/raw/telegram_messages\2025-07-12\CheMed123\image_31.jpg
+2025-07-12 21:04:32,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:33,637 - INFO - Downloaded image 30 to data/raw/telegram_messages\2025-07-12\CheMed123\image_30.jpg
+2025-07-12 21:04:33,638 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:36,768 - INFO - Downloaded image 29 to data/raw/telegram_messages\2025-07-12\CheMed123\image_29.jpg
+2025-07-12 21:04:36,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:38,210 - INFO - Downloaded image 27 to data/raw/telegram_messages\2025-07-12\CheMed123\image_27.jpg
+2025-07-12 21:04:38,210 - INFO - Starting scrape for @lobelia4cosmetics (Images: True)
+2025-07-12 21:04:39,427 - INFO - Scraped message 18535 from @lobelia4cosmetics
+2025-07-12 21:04:39,427 - INFO - Scraped message 18534 from @lobelia4cosmetics
+2025-07-12 21:04:39,428 - INFO - Scraped message 18533 from @lobelia4cosmetics
+2025-07-12 21:04:39,428 - INFO - Scraped message 18532 from @lobelia4cosmetics
+2025-07-12 21:04:39,429 - INFO - Scraped message 18531 from @lobelia4cosmetics
+2025-07-12 21:04:39,431 - INFO - Scraped message 18530 from @lobelia4cosmetics
+2025-07-12 21:04:39,432 - INFO - Scraped message 18529 from @lobelia4cosmetics
+2025-07-12 21:04:39,436 - INFO - Scraped message 18528 from @lobelia4cosmetics
+2025-07-12 21:04:39,436 - INFO - Scraped message 18527 from @lobelia4cosmetics
+2025-07-12 21:04:39,437 - INFO - Scraped message 18526 from @lobelia4cosmetics
+2025-07-12 21:04:39,437 - INFO - Scraped message 18525 from @lobelia4cosmetics
+2025-07-12 21:04:39,437 - INFO - Scraped message 18524 from @lobelia4cosmetics
+2025-07-12 21:04:39,438 - INFO - Scraped message 18523 from @lobelia4cosmetics
+2025-07-12 21:04:39,438 - INFO - Scraped message 18522 from @lobelia4cosmetics
+2025-07-12 21:04:39,438 - INFO - Scraped message 18521 from @lobelia4cosmetics
+2025-07-12 21:04:39,438 - INFO - Scraped message 18520 from @lobelia4cosmetics
+2025-07-12 21:04:39,439 - INFO - Scraped message 18519 from @lobelia4cosmetics
+2025-07-12 21:04:39,439 - INFO - Scraped message 18518 from @lobelia4cosmetics
+2025-07-12 21:04:39,439 - INFO - Scraped message 18517 from @lobelia4cosmetics
+2025-07-12 21:04:39,439 - INFO - Scraped message 18516 from @lobelia4cosmetics
+2025-07-12 21:04:39,440 - INFO - Scraped message 18515 from @lobelia4cosmetics
+2025-07-12 21:04:39,440 - INFO - Scraped message 18514 from @lobelia4cosmetics
+2025-07-12 21:04:39,440 - INFO - Scraped message 18513 from @lobelia4cosmetics
+2025-07-12 21:04:39,440 - INFO - Scraped message 18512 from @lobelia4cosmetics
+2025-07-12 21:04:39,441 - INFO - Scraped message 18511 from @lobelia4cosmetics
+2025-07-12 21:04:39,442 - INFO - Scraped message 18510 from @lobelia4cosmetics
+2025-07-12 21:04:39,442 - INFO - Scraped message 18509 from @lobelia4cosmetics
+2025-07-12 21:04:39,442 - INFO - Scraped message 18508 from @lobelia4cosmetics
+2025-07-12 21:04:39,443 - INFO - Scraped message 18507 from @lobelia4cosmetics
+2025-07-12 21:04:39,444 - INFO - Scraped message 18506 from @lobelia4cosmetics
+2025-07-12 21:04:39,444 - INFO - Scraped message 18505 from @lobelia4cosmetics
+2025-07-12 21:04:39,445 - INFO - Scraped message 18504 from @lobelia4cosmetics
+2025-07-12 21:04:39,445 - INFO - Scraped message 18503 from @lobelia4cosmetics
+2025-07-12 21:04:39,447 - INFO - Scraped message 18502 from @lobelia4cosmetics
+2025-07-12 21:04:39,447 - INFO - Scraped message 18501 from @lobelia4cosmetics
+2025-07-12 21:04:39,448 - INFO - Scraped message 18500 from @lobelia4cosmetics
+2025-07-12 21:04:39,448 - INFO - Scraped message 18499 from @lobelia4cosmetics
+2025-07-12 21:04:39,448 - INFO - Scraped message 18498 from @lobelia4cosmetics
+2025-07-12 21:04:39,448 - INFO - Scraped message 18497 from @lobelia4cosmetics
+2025-07-12 21:04:39,450 - INFO - Scraped message 18496 from @lobelia4cosmetics
+2025-07-12 21:04:39,450 - INFO - Scraped message 18495 from @lobelia4cosmetics
+2025-07-12 21:04:39,451 - INFO - Scraped message 18494 from @lobelia4cosmetics
+2025-07-12 21:04:39,451 - INFO - Scraped message 18493 from @lobelia4cosmetics
+2025-07-12 21:04:39,451 - INFO - Scraped message 18492 from @lobelia4cosmetics
+2025-07-12 21:04:39,451 - INFO - Scraped message 18491 from @lobelia4cosmetics
+2025-07-12 21:04:39,452 - INFO - Scraped message 18490 from @lobelia4cosmetics
+2025-07-12 21:04:39,452 - INFO - Scraped message 18489 from @lobelia4cosmetics
+2025-07-12 21:04:39,452 - INFO - Scraped message 18488 from @lobelia4cosmetics
+2025-07-12 21:04:39,452 - INFO - Scraped message 18487 from @lobelia4cosmetics
+2025-07-12 21:04:39,453 - INFO - Scraped message 18486 from @lobelia4cosmetics
+2025-07-12 21:04:39,453 - INFO - Scraped message 18485 from @lobelia4cosmetics
+2025-07-12 21:04:39,453 - INFO - Scraped message 18484 from @lobelia4cosmetics
+2025-07-12 21:04:39,453 - INFO - Scraped message 18483 from @lobelia4cosmetics
+2025-07-12 21:04:39,454 - INFO - Scraped message 18482 from @lobelia4cosmetics
+2025-07-12 21:04:39,454 - INFO - Scraped message 18481 from @lobelia4cosmetics
+2025-07-12 21:04:39,454 - INFO - Scraped message 18480 from @lobelia4cosmetics
+2025-07-12 21:04:39,454 - INFO - Scraped message 18479 from @lobelia4cosmetics
+2025-07-12 21:04:39,455 - INFO - Scraped message 18478 from @lobelia4cosmetics
+2025-07-12 21:04:39,455 - INFO - Scraped message 18477 from @lobelia4cosmetics
+2025-07-12 21:04:39,455 - INFO - Scraped message 18476 from @lobelia4cosmetics
+2025-07-12 21:04:39,455 - INFO - Scraped message 18475 from @lobelia4cosmetics
+2025-07-12 21:04:39,456 - INFO - Scraped message 18474 from @lobelia4cosmetics
+2025-07-12 21:04:39,456 - INFO - Scraped message 18473 from @lobelia4cosmetics
+2025-07-12 21:04:39,456 - INFO - Scraped message 18472 from @lobelia4cosmetics
+2025-07-12 21:04:39,457 - INFO - Scraped message 18471 from @lobelia4cosmetics
+2025-07-12 21:04:39,457 - INFO - Scraped message 18470 from @lobelia4cosmetics
+2025-07-12 21:04:39,457 - INFO - Scraped message 18469 from @lobelia4cosmetics
+2025-07-12 21:04:39,457 - INFO - Scraped message 18468 from @lobelia4cosmetics
+2025-07-12 21:04:39,458 - INFO - Scraped message 18467 from @lobelia4cosmetics
+2025-07-12 21:04:39,458 - INFO - Scraped message 18466 from @lobelia4cosmetics
+2025-07-12 21:04:39,458 - INFO - Scraped message 18465 from @lobelia4cosmetics
+2025-07-12 21:04:39,458 - INFO - Scraped message 18464 from @lobelia4cosmetics
+2025-07-12 21:04:39,459 - INFO - Scraped message 18463 from @lobelia4cosmetics
+2025-07-12 21:04:39,459 - INFO - Scraped message 18462 from @lobelia4cosmetics
+2025-07-12 21:04:39,459 - INFO - Scraped message 18461 from @lobelia4cosmetics
+2025-07-12 21:04:39,459 - INFO - Scraped message 18460 from @lobelia4cosmetics
+2025-07-12 21:04:39,460 - INFO - Scraped message 18459 from @lobelia4cosmetics
+2025-07-12 21:04:39,460 - INFO - Scraped message 18458 from @lobelia4cosmetics
+2025-07-12 21:04:39,460 - INFO - Scraped message 18457 from @lobelia4cosmetics
+2025-07-12 21:04:39,461 - INFO - Scraped message 18456 from @lobelia4cosmetics
+2025-07-12 21:04:39,461 - INFO - Scraped message 18455 from @lobelia4cosmetics
+2025-07-12 21:04:39,461 - INFO - Scraped message 18454 from @lobelia4cosmetics
+2025-07-12 21:04:39,461 - INFO - Scraped message 18453 from @lobelia4cosmetics
+2025-07-12 21:04:39,462 - INFO - Scraped message 18452 from @lobelia4cosmetics
+2025-07-12 21:04:39,462 - INFO - Scraped message 18451 from @lobelia4cosmetics
+2025-07-12 21:04:39,463 - INFO - Scraped message 18450 from @lobelia4cosmetics
+2025-07-12 21:04:39,463 - INFO - Scraped message 18449 from @lobelia4cosmetics
+2025-07-12 21:04:39,463 - INFO - Scraped message 18448 from @lobelia4cosmetics
+2025-07-12 21:04:39,463 - INFO - Scraped message 18446 from @lobelia4cosmetics
+2025-07-12 21:04:39,464 - INFO - Scraped message 18445 from @lobelia4cosmetics
+2025-07-12 21:04:39,464 - INFO - Scraped message 18444 from @lobelia4cosmetics
+2025-07-12 21:04:39,465 - INFO - Scraped message 18443 from @lobelia4cosmetics
+2025-07-12 21:04:39,465 - INFO - Scraped message 18442 from @lobelia4cosmetics
+2025-07-12 21:04:39,465 - INFO - Scraped message 18441 from @lobelia4cosmetics
+2025-07-12 21:04:39,466 - INFO - Scraped message 18440 from @lobelia4cosmetics
+2025-07-12 21:04:39,466 - INFO - Scraped message 18439 from @lobelia4cosmetics
+2025-07-12 21:04:39,467 - INFO - Scraped message 18438 from @lobelia4cosmetics
+2025-07-12 21:04:39,467 - INFO - Scraped message 18437 from @lobelia4cosmetics
+2025-07-12 21:04:39,467 - INFO - Scraped message 18436 from @lobelia4cosmetics
+2025-07-12 21:04:39,467 - INFO - Scraped message 18435 from @lobelia4cosmetics
+2025-07-12 21:04:39,471 - INFO - Saved 100 messages to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\messages.json
+2025-07-12 21:04:39,956 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:41,688 - INFO - Downloaded image 18535 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18535.jpg
+2025-07-12 21:04:41,690 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:43,656 - INFO - Downloaded image 18534 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18534.jpg
+2025-07-12 21:04:43,659 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:44,525 - INFO - Downloaded image 18533 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18533.jpg
+2025-07-12 21:04:44,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:46,325 - INFO - Downloaded image 18532 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18532.jpg
+2025-07-12 21:04:46,330 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:46,955 - INFO - Downloaded image 18531 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18531.jpg
+2025-07-12 21:04:46,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:48,772 - INFO - Downloaded image 18530 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18530.jpg
+2025-07-12 21:04:48,775 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:49,448 - INFO - Downloaded image 18529 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18529.jpg
+2025-07-12 21:04:49,451 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:52,413 - INFO - Downloaded image 18528 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18528.jpg
+2025-07-12 21:04:52,415 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:54,517 - INFO - Downloaded image 18527 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18527.jpg
+2025-07-12 21:04:54,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:58,438 - INFO - Downloaded image 18526 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18526.jpg
+2025-07-12 21:04:58,439 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:04:59,542 - INFO - Downloaded image 18525 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18525.jpg
+2025-07-12 21:04:59,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:00,987 - INFO - Downloaded image 18524 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18524.jpg
+2025-07-12 21:05:00,988 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:02,314 - INFO - Downloaded image 18523 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18523.jpg
+2025-07-12 21:05:02,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:02,864 - INFO - Downloaded image 18522 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18522.jpg
+2025-07-12 21:05:02,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:03,958 - INFO - Downloaded image 18521 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18521.jpg
+2025-07-12 21:05:03,959 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:06,859 - INFO - Downloaded image 18520 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18520.jpg
+2025-07-12 21:05:06,860 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:11,797 - INFO - Downloaded image 18519 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18519.jpg
+2025-07-12 21:05:11,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:12,932 - INFO - Downloaded image 18518 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18518.jpg
+2025-07-12 21:05:12,934 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:13,504 - INFO - Downloaded image 18517 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18517.jpg
+2025-07-12 21:05:13,506 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:14,221 - INFO - Downloaded image 18516 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18516.jpg
+2025-07-12 21:05:14,223 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:16,326 - INFO - Downloaded image 18515 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18515.jpg
+2025-07-12 21:05:16,332 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:16,922 - INFO - Downloaded image 18514 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18514.jpg
+2025-07-12 21:05:16,924 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:17,492 - INFO - Downloaded image 18513 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18513.jpg
+2025-07-12 21:05:17,493 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:18,301 - INFO - Downloaded image 18512 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18512.jpg
+2025-07-12 21:05:18,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:19,063 - INFO - Downloaded image 18511 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18511.jpg
+2025-07-12 21:05:19,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:20,349 - INFO - Downloaded image 18510 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18510.jpg
+2025-07-12 21:05:20,351 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:21,180 - INFO - Downloaded image 18509 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18509.jpg
+2025-07-12 21:05:21,183 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:23,207 - INFO - Downloaded image 18508 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18508.jpg
+2025-07-12 21:05:23,208 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:23,648 - INFO - Downloaded image 18507 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18507.jpg
+2025-07-12 21:05:23,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:25,644 - INFO - Downloaded image 18506 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18506.jpg
+2025-07-12 21:05:25,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:27,488 - INFO - Downloaded image 18505 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18505.jpg
+2025-07-12 21:05:27,490 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:29,459 - INFO - Downloaded image 18504 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18504.jpg
+2025-07-12 21:05:29,463 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:31,416 - INFO - Downloaded image 18503 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18503.jpg
+2025-07-12 21:05:31,419 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:33,121 - INFO - Downloaded image 18502 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18502.jpg
+2025-07-12 21:05:33,123 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:34,951 - INFO - Downloaded image 18501 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18501.jpg
+2025-07-12 21:05:34,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:36,220 - INFO - Downloaded image 18500 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18500.jpg
+2025-07-12 21:05:36,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:38,427 - INFO - Downloaded image 18499 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18499.jpg
+2025-07-12 21:05:38,430 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:39,798 - INFO - Downloaded image 18498 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18498.jpg
+2025-07-12 21:05:39,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:40,187 - INFO - Downloaded image 18497 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18497.jpg
+2025-07-12 21:05:40,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:41,666 - INFO - Downloaded image 18496 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18496.jpg
+2025-07-12 21:05:41,668 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:42,913 - INFO - Downloaded image 18495 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18495.jpg
+2025-07-12 21:05:42,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:44,056 - INFO - Downloaded image 18494 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18494.jpg
+2025-07-12 21:05:44,059 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:45,416 - INFO - Downloaded image 18493 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18493.jpg
+2025-07-12 21:05:45,417 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:46,160 - INFO - Downloaded image 18492 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18492.jpg
+2025-07-12 21:05:46,164 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:49,459 - INFO - Downloaded image 18491 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18491.jpg
+2025-07-12 21:05:49,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:52,952 - INFO - Downloaded image 18490 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18490.jpg
+2025-07-12 21:05:52,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:53,422 - INFO - Downloaded image 18489 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18489.jpg
+2025-07-12 21:05:53,432 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:55,605 - INFO - Downloaded image 18488 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18488.jpg
+2025-07-12 21:05:55,606 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:56,125 - INFO - Downloaded image 18487 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18487.jpg
+2025-07-12 21:05:56,130 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-12 21:05:58,199 - INFO - Downloaded image 18486 to data/raw/telegram_messages\2025-07-12\lobelia4cosmetics\image_18486.jpg
+2025-07-12 21:05:58,200 - INFO - Starting scrape for @tikvahpharma (Images: False)
+2025-07-12 21:06:00,147 - INFO - Scraped message 172384 from @tikvahpharma
+2025-07-12 21:06:00,148 - INFO - Scraped message 172383 from @tikvahpharma
+2025-07-12 21:06:00,148 - INFO - Scraped message 172373 from @tikvahpharma
+2025-07-12 21:06:00,148 - INFO - Scraped message 172367 from @tikvahpharma
+2025-07-12 21:06:00,149 - INFO - Scraped message 172360 from @tikvahpharma
+2025-07-12 21:06:00,150 - INFO - Scraped message 172359 from @tikvahpharma
+2025-07-12 21:06:00,150 - INFO - Scraped message 172353 from @tikvahpharma
+2025-07-12 21:06:00,150 - INFO - Scraped message 172350 from @tikvahpharma
+2025-07-12 21:06:00,150 - INFO - Scraped message 172345 from @tikvahpharma
+2025-07-12 21:06:00,152 - INFO - Scraped message 172336 from @tikvahpharma
+2025-07-12 21:06:00,154 - INFO - Scraped message 172332 from @tikvahpharma
+2025-07-12 21:06:00,154 - INFO - Scraped message 172331 from @tikvahpharma
+2025-07-12 21:06:00,154 - INFO - Scraped message 172330 from @tikvahpharma
+2025-07-12 21:06:00,154 - INFO - Scraped message 172329 from @tikvahpharma
+2025-07-12 21:06:00,154 - INFO - Scraped message 172328 from @tikvahpharma
+2025-07-12 21:06:00,156 - INFO - Scraped message 172325 from @tikvahpharma
+2025-07-12 21:06:00,156 - INFO - Scraped message 172323 from @tikvahpharma
+2025-07-12 21:06:00,156 - INFO - Scraped message 172317 from @tikvahpharma
+2025-07-12 21:06:00,157 - INFO - Scraped message 172316 from @tikvahpharma
+2025-07-12 21:06:00,157 - INFO - Scraped message 172313 from @tikvahpharma
+2025-07-12 21:06:00,158 - INFO - Scraped message 172310 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172307 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172276 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172274 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172273 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172272 from @tikvahpharma
+2025-07-12 21:06:00,159 - INFO - Scraped message 172263 from @tikvahpharma
+2025-07-12 21:06:00,160 - INFO - Scraped message 172259 from @tikvahpharma
+2025-07-12 21:06:00,160 - INFO - Scraped message 172252 from @tikvahpharma
+2025-07-12 21:06:00,163 - INFO - Scraped message 172230 from @tikvahpharma
+2025-07-12 21:06:00,163 - INFO - Scraped message 172229 from @tikvahpharma
+2025-07-12 21:06:00,164 - INFO - Scraped message 172214 from @tikvahpharma
+2025-07-12 21:06:00,164 - INFO - Scraped message 172209 from @tikvahpharma
+2025-07-12 21:06:00,164 - INFO - Scraped message 172196 from @tikvahpharma
+2025-07-12 21:06:00,165 - INFO - Scraped message 172188 from @tikvahpharma
+2025-07-12 21:06:00,166 - INFO - Scraped message 172187 from @tikvahpharma
+2025-07-12 21:06:00,166 - INFO - Scraped message 172186 from @tikvahpharma
+2025-07-12 21:06:00,166 - INFO - Scraped message 172185 from @tikvahpharma
+2025-07-12 21:06:00,167 - INFO - Scraped message 172180 from @tikvahpharma
+2025-07-12 21:06:00,167 - INFO - Scraped message 172179 from @tikvahpharma
+2025-07-12 21:06:00,167 - INFO - Scraped message 172178 from @tikvahpharma
+2025-07-12 21:06:00,168 - INFO - Scraped message 172177 from @tikvahpharma
+2025-07-12 21:06:00,169 - INFO - Scraped message 172174 from @tikvahpharma
+2025-07-12 21:06:00,169 - INFO - Scraped message 172173 from @tikvahpharma
+2025-07-12 21:06:00,169 - INFO - Scraped message 172172 from @tikvahpharma
+2025-07-12 21:06:00,170 - INFO - Scraped message 172170 from @tikvahpharma
+2025-07-12 21:06:00,172 - INFO - Scraped message 172166 from @tikvahpharma
+2025-07-12 21:06:00,172 - INFO - Scraped message 172164 from @tikvahpharma
+2025-07-12 21:06:00,172 - INFO - Scraped message 172144 from @tikvahpharma
+2025-07-12 21:06:00,172 - INFO - Scraped message 172142 from @tikvahpharma
+2025-07-12 21:06:00,174 - INFO - Scraped message 172141 from @tikvahpharma
+2025-07-12 21:06:00,175 - INFO - Scraped message 172140 from @tikvahpharma
+2025-07-12 21:06:00,175 - INFO - Scraped message 172136 from @tikvahpharma
+2025-07-12 21:06:00,175 - INFO - Scraped message 172135 from @tikvahpharma
+2025-07-12 21:06:00,176 - INFO - Scraped message 172134 from @tikvahpharma
+2025-07-12 21:06:00,176 - INFO - Scraped message 172133 from @tikvahpharma
+2025-07-12 21:06:00,178 - INFO - Scraped message 172132 from @tikvahpharma
+2025-07-12 21:06:00,179 - INFO - Scraped message 172131 from @tikvahpharma
+2025-07-12 21:06:00,180 - INFO - Scraped message 172130 from @tikvahpharma
+2025-07-12 21:06:00,180 - INFO - Scraped message 172129 from @tikvahpharma
+2025-07-12 21:06:00,180 - INFO - Scraped message 172127 from @tikvahpharma
+2025-07-12 21:06:00,181 - INFO - Scraped message 172126 from @tikvahpharma
+2025-07-12 21:06:00,182 - INFO - Scraped message 172125 from @tikvahpharma
+2025-07-12 21:06:00,183 - INFO - Scraped message 172123 from @tikvahpharma
+2025-07-12 21:06:00,183 - INFO - Scraped message 172122 from @tikvahpharma
+2025-07-12 21:06:00,183 - INFO - Scraped message 172121 from @tikvahpharma
+2025-07-12 21:06:00,184 - INFO - Scraped message 172120 from @tikvahpharma
+2025-07-12 21:06:00,185 - INFO - Scraped message 172119 from @tikvahpharma
+2025-07-12 21:06:00,186 - INFO - Scraped message 172118 from @tikvahpharma
+2025-07-12 21:06:00,186 - INFO - Scraped message 172117 from @tikvahpharma
+2025-07-12 21:06:00,186 - INFO - Scraped message 172116 from @tikvahpharma
+2025-07-12 21:06:00,186 - INFO - Scraped message 172115 from @tikvahpharma
+2025-07-12 21:06:00,186 - INFO - Scraped message 172114 from @tikvahpharma
+2025-07-12 21:06:00,187 - INFO - Scraped message 172113 from @tikvahpharma
+2025-07-12 21:06:00,187 - INFO - Scraped message 172112 from @tikvahpharma
+2025-07-12 21:06:00,187 - INFO - Scraped message 172111 from @tikvahpharma
+2025-07-12 21:06:00,187 - INFO - Scraped message 172110 from @tikvahpharma
+2025-07-12 21:06:00,188 - INFO - Scraped message 172109 from @tikvahpharma
+2025-07-12 21:06:00,188 - INFO - Scraped message 172108 from @tikvahpharma
+2025-07-12 21:06:00,190 - INFO - Scraped message 172107 from @tikvahpharma
+2025-07-12 21:06:00,191 - INFO - Scraped message 172106 from @tikvahpharma
+2025-07-12 21:06:00,191 - INFO - Scraped message 172105 from @tikvahpharma
+2025-07-12 21:06:00,192 - INFO - Scraped message 172104 from @tikvahpharma
+2025-07-12 21:06:00,193 - INFO - Scraped message 172103 from @tikvahpharma
+2025-07-12 21:06:00,193 - INFO - Scraped message 172102 from @tikvahpharma
+2025-07-12 21:06:00,195 - INFO - Scraped message 172101 from @tikvahpharma
+2025-07-12 21:06:00,195 - INFO - Scraped message 172100 from @tikvahpharma
+2025-07-12 21:06:00,196 - INFO - Scraped message 172099 from @tikvahpharma
+2025-07-12 21:06:00,196 - INFO - Scraped message 172098 from @tikvahpharma
+2025-07-12 21:06:00,198 - INFO - Scraped message 172097 from @tikvahpharma
+2025-07-12 21:06:00,198 - INFO - Scraped message 172095 from @tikvahpharma
+2025-07-12 21:06:00,199 - INFO - Scraped message 172093 from @tikvahpharma
+2025-07-12 21:06:00,199 - INFO - Scraped message 172092 from @tikvahpharma
+2025-07-12 21:06:00,199 - INFO - Scraped message 172091 from @tikvahpharma
+2025-07-12 21:06:00,200 - INFO - Scraped message 172090 from @tikvahpharma
+2025-07-12 21:06:00,200 - INFO - Scraped message 172089 from @tikvahpharma
+2025-07-12 21:06:00,200 - INFO - Scraped message 172088 from @tikvahpharma
+2025-07-12 21:06:00,201 - INFO - Scraped message 172087 from @tikvahpharma
+2025-07-12 21:06:00,201 - INFO - Scraped message 172086 from @tikvahpharma
+2025-07-12 21:06:00,203 - INFO - Scraped message 172085 from @tikvahpharma
+2025-07-12 21:06:00,208 - INFO - Saved 100 messages to data/raw/telegram_messages\2025-07-12\tikvahpharma\messages.json
+2025-07-12 21:06:00,208 - INFO - Starting scrape for @EthioMedicine (Images: False)
+2025-07-12 21:06:01,093 - INFO - Scraped message 84 from @EthioMedicine
+2025-07-12 21:06:01,093 - INFO - Scraped message 83 from @EthioMedicine
+2025-07-12 21:06:01,093 - INFO - Scraped message 82 from @EthioMedicine
+2025-07-12 21:06:01,094 - INFO - Scraped message 81 from @EthioMedicine
+2025-07-12 21:06:01,094 - INFO - Scraped message 80 from @EthioMedicine
+2025-07-12 21:06:01,094 - INFO - Scraped message 79 from @EthioMedicine
+2025-07-12 21:06:01,095 - INFO - Scraped message 78 from @EthioMedicine
+2025-07-12 21:06:01,096 - INFO - Scraped message 77 from @EthioMedicine
+2025-07-12 21:06:01,096 - INFO - Scraped message 76 from @EthioMedicine
+2025-07-12 21:06:01,096 - INFO - Scraped message 75 from @EthioMedicine
+2025-07-12 21:06:01,096 - INFO - Scraped message 74 from @EthioMedicine
+2025-07-12 21:06:01,096 - INFO - Scraped message 73 from @EthioMedicine
+2025-07-12 21:06:01,097 - INFO - Scraped message 72 from @EthioMedicine
+2025-07-12 21:06:01,098 - INFO - Scraped message 71 from @EthioMedicine
+2025-07-12 21:06:01,098 - INFO - Scraped message 69 from @EthioMedicine
+2025-07-12 21:06:01,098 - INFO - Scraped message 68 from @EthioMedicine
+2025-07-12 21:06:01,098 - INFO - Scraped message 67 from @EthioMedicine
+2025-07-12 21:06:01,099 - INFO - Scraped message 66 from @EthioMedicine
+2025-07-12 21:06:01,099 - INFO - Scraped message 65 from @EthioMedicine
+2025-07-12 21:06:01,099 - INFO - Scraped message 64 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 63 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 62 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 61 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 60 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 59 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 58 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 57 from @EthioMedicine
+2025-07-12 21:06:01,100 - INFO - Scraped message 56 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 55 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 54 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 53 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 52 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 51 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 50 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 49 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 48 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 47 from @EthioMedicine
+2025-07-12 21:06:01,101 - INFO - Scraped message 46 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 44 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 43 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 42 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 41 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 40 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 39 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 38 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 37 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 36 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 35 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 33 from @EthioMedicine
+2025-07-12 21:06:01,102 - INFO - Scraped message 32 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 31 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 30 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 29 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 28 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 27 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 26 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 25 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 24 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 23 from @EthioMedicine
+2025-07-12 21:06:01,103 - INFO - Scraped message 22 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 21 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 20 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 19 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 18 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 17 from @EthioMedicine
+2025-07-12 21:06:01,104 - INFO - Scraped message 16 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 14 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 13 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 12 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 11 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 10 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 9 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 8 from @EthioMedicine
+2025-07-12 21:06:01,105 - INFO - Scraped message 7 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 6 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 5 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 4 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 3 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 2 from @EthioMedicine
+2025-07-12 21:06:01,106 - INFO - Scraped message 1 from @EthioMedicine
+2025-07-12 21:06:01,109 - INFO - Saved 80 messages to data/raw/telegram_messages\2025-07-12\EthioMedicine\messages.json
+2025-07-12 21:06:01,110 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-12 21:06:01,111 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
