@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 DB_PARAMS = {
     'dbname': 'telegram_data',
     'user': 'postgres',
-    'password': 'yafa@2002',  
+    'password': '',  
     'host': 'localhost',
     'port': '5432'  # Use 5433 if you changed the port
 }
